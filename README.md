@@ -4,7 +4,7 @@
 
 [![Study Progress](https://img.shields.io/badge/Progress-100%25-brightgreen?style=for-the-badge&logo=checkmarx)](.)
 [![Topics Covered](https://img.shields.io/badge/Topics-27-blue?style=for-the-badge&logo=bookstack)](.)
-[![Last Updated](https://img.shields.io/badge/Updated-2024-orange?style=for-the-badge&logo=calendar)](.)
+[![Last Updated](https://img.shields.io/badge/Updated-2025-orange?style=for-the-badge&logo=calendar)](.)
 
 *Kompletní přehled témat k přípravě na státní zkoušku*  
 *Každá otázka obsahuje odkaz na detailní poznámky a materiály*
